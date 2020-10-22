@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there ✌
+```js
+const Jhonatan = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Laravel, Node],
+}
+```
 
-<!--
-**Jhontan/Jhontan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

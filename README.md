@@ -1,8 +1,8 @@
 <br clear="both">
-<div style="background-color: #d3d3d3; padding: 20px;">
+<div style="background-color: #a9a9a9; padding: 20px; margin: 20px;">
 <h1 align="center">Jhonatan Navarro</h1>
 </div>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />

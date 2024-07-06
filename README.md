@@ -15,15 +15,6 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Cucei].
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`).
-- :boom: You can visit [MY WEBSITE](https://jhonatanminos.github.io/JhonatanNavarro/).
-  <br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />

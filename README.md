@@ -6,7 +6,7 @@
 <br>
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JhonatanMinos&color=black" alt="7oSkaaa" height=25px, width=160px/>
+  <img src="https://komarev.com/ghpvc/?username=JhonatanMinos&color=blue" alt="7oSkaaa" height=25px, width=160px/>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me

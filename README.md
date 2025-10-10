@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Jhonatan Navarro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100" /></a>
 </p>
 
 <br>
@@ -17,6 +17,44 @@
 
 - :boom: You can visit [MY WEBSITE](https://jhonatanminos.github.io/JhonatanNavarro/).
   <br>
+
+## 💼 Projects
+
+<details>
+<summary>Project 1: E-commerce Platform</summary>
+
+### E-commerce Platform Development
+A comprehensive online shopping solution developed using Laravel and React. This project features:
+- User authentication and authorization
+- Product catalog management
+- Shopping cart functionality
+- Secure payment processing
+- Order tracking system
+</details>
+
+<details>
+<summary>Project 2: Task Management System</summary>
+
+### Task Management Application
+A collaborative project management tool built with PHP and MySQL. Key features include:
+- User task assignment
+- Project timeline tracking
+- Priority-based organization
+- Team collaboration tools
+- Progress reporting
+</details>
+
+<details>
+<summary>Project 3: Portfolio Website</summary>
+
+### Personal Portfolio Website
+A responsive portfolio website showcasing my work and skills:
+- Modern UI/UX design
+- Project showcase
+- Contact form integration
+- Skills presentation
+- Professional experience timeline
+</details>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />

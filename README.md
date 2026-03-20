@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :boom: You can visit [MY WEBSITE](https://jhonatanminos.github.io/JhonatanNavarro/).
+- :boom: You can visit [MY WEBSITE](https://jhonatanminos.github.io).
   <br>
 
 ## 💼 Projects

@@ -9,6 +9,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JhonatanMinos&color=blue" alt="profile views" height="25px" width="160px"/>
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanMinos&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanMinos&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonatanMinos&theme=dark&hide_border=true" />
+</p>
 
 ---
 
@@ -94,3 +106,27 @@ A responsive portfolio website showcasing my work and skills.
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+
+---
+
+## 🚀 Currently
+
+- 🔨 Building **IntranetLOB** — enterprise intranet with Laravel 12 + Inertia.js + React
+- 📚 Improving my English (A2 → B1)
+- 🐧 Running Debian as daily driver
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jhonatanmanm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jhonatanminos.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
